@@ -1,0 +1,23 @@
+import STL file.PNG
+User Avatar
+here i import my STL shape in exocad
+okay
+but no parameters to modify the shape size ,height,width ect show
+
+no parameters show.PNG
+here is an example of how the others bar installed by default in exocad are , it show the parameters
+
+example of default bar parameters.PNG
+After import my STL file ,there is an output option to convert the STL 
+in "BarProfile" format as same in the others in the library
+
+save my bar shape hassan as a barprofile format.PNG
+but as you can see the xml file is very different
+this is mine
+
+hassan bar.barProfile
+this is the correct file from exocad default library
+
+PrimaryBar.barProfile
+can you help to makes my shape as the same format as the primary bar ?
+to help me to change the parameters in exocad
